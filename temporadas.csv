@@ -1,0 +1,101 @@
+id,id_ingrediente,zona,mes_inicio,mes_fin,disponibilidad,notas
+1,1,GBA Sur Hortícola,11,3,plena,Pico en enero-febrero. Mejor para conservas en verano.
+2,1,GBA Norte Hortícola,11,3,plena,Producción bajo cubierta permite extender la temporada.
+3,1,Delta del Tigre,12,2,inicio,Producción menor. Más orientada a consumo local.
+4,2,GBA Sur Hortícola,11,3,plena,Variedad muy demandada por restaurantes. Producción intensiva.
+5,2,GBA Norte Hortícola,11,3,plena,Producción bajo invernadero todo el verano.
+6,3,GBA Sur Hortícola,3,6,plena,Cosecha de otoño. Se conserva meses secos y frescos.
+7,3,Pampa Húmeda Interior,3,6,plena,Producción a campo. Muy buen calibre.
+8,3,Cuenca del Salado,3,5,inicio,Producción menor pero de buena calidad.
+9,4,GBA Sur Hortícola,2,5,plena,El más tradicional. Cosecha manual.
+10,4,Pampa Húmeda Interior,2,5,plena,Buen rendimiento en suelos profundos.
+11,5,GBA Sur Hortícola,11,3,plena,Muy productivo. Se cosecha antes de madurar.
+12,5,GBA Norte Hortícola,11,3,plena,Bajo cubierta permite producción extendida.
+13,5,Delta del Tigre,12,2,inicio,Pequeña escala. Muy fresco y local.
+14,6,GBA Sur Hortícola,12,3,plena,Requiere calor intenso. Pico en enero.
+15,6,GBA Norte Hortícola,12,3,plena,Similar condiciones. Temporada corta.
+16,7,GBA Sur Hortícola,12,3,plena,El rojo requiere maduración completa. Verano.
+17,7,GBA Norte Hortícola,11,3,plena,Producción importante bajo cubierta.
+18,8,GBA Sur Hortícola,11,3,plena,Más tolerante que el rojo. Empieza antes.
+19,8,GBA Norte Hortícola,10,3,plena,Producción continua bajo invernadero.
+20,9,GBA Sur Hortícola,12,3,plena,Choclo dulce en verano. Cosecha manual.
+21,9,Cuenca del Salado,12,2,plena,Producción extensiva. Choclo blanco y amarillo.
+22,9,Pampa Húmeda Interior,12,2,plena,Buen volumen. Destino industria y consumo fresco.
+23,10,GBA Sur Hortícola,1,12,plena,Todo el año. Pico en invierno cuando escasean otros.
+24,10,GBA Norte Hortícola,1,12,plena,Producción continua bajo cubierta y a campo.
+25,10,Delta del Tigre,1,12,plena,Muy fresca. Producción familiar intensiva.
+26,11,GBA Sur Hortícola,4,10,plena,Prefiere fresco. Mejor calidad en invierno.
+27,11,GBA Norte Hortícola,4,10,plena,Producción intensiva. Alta demanda gastronómica.
+28,12,GBA Sur Hortícola,1,12,plena,Producción continua. Variedad mantecosa la más común.
+29,12,GBA Norte Hortícola,1,12,plena,Gran volumen. Abastece mercados de Buenos Aires.
+30,12,Delta del Tigre,1,12,plena,Producción en pequeñas parcelas muy fresca.
+31,13,GBA Sur Hortícola,1,12,plena,Producción continua con picos en primavera-otoño.
+32,13,GBA Norte Hortícola,1,12,plena,Similar a la mantecosa en producción.
+33,14,GBA Sur Hortícola,8,12,plena,Primavera y otoño. Sabor más intenso con frescor.
+34,14,GBA Norte Hortícola,8,11,plena,Buena producción. Alta demanda en restaurantes.
+35,15,GBA Sur Hortícola,4,10,plena,Producción creciente. Prefiere invierno suave.
+36,15,GBA Norte Hortícola,4,9,plena,Producción bajo cubierta en invierno.
+37,16,GBA Sur Hortícola,4,8,plena,Invierno. Heladas leves mejoran el sabor.
+38,16,Sur Bonaerense,4,8,plena,Excelente calidad. Clima frío favorece el sabor.
+39,16,Costa Atlántica,4,8,plena,Producción importante. Zona fresca ideal.
+40,17,GBA Sur Hortícola,4,8,plena,Similar al brócoli. Requiere frío.
+41,17,Sur Bonaerense,4,8,plena,Buena producción en invierno riguroso.
+42,17,Costa Atlántica,4,8,plena,Alta calidad por clima marítimo fresco.
+43,18,Costa Atlántica,8,11,plena,Mar del Plata: capital nacional del alcaucil. Primavera.
+44,18,GBA Sur Hortícola,8,10,inicio,Menor escala. Buena calidad.
+45,19,GBA Sur Hortícola,1,12,plena,Producción todo el año. Pico en otoño.
+46,19,GBA Norte Hortícola,1,12,plena,Alta producción. Variedad Chantenay la más común.
+47,20,GBA Sur Hortícola,3,9,plena,Otoño e invierno. Resistente a heladas leves.
+48,20,Sur Bonaerense,3,8,plena,Muy buena calidad. Clima frío la favorece.
+49,21,GBA Sur Hortícola,1,12,plena,Ciclo 30 días. Producción casi continua.
+50,21,GBA Norte Hortícola,1,12,plena,Alta rotación. Siempre disponible.
+51,22,GBA Sur Hortícola,4,8,plena,Invierno. Producción creciente en la zona.
+52,23,GBA Sur Hortícola,4,9,plena,Invierno y primavera temprana. Suave y versátil.
+53,23,GBA Norte Hortícola,4,9,plena,Alta producción. Muy demandado en restaurantes.
+54,24,GBA Sur Hortícola,1,12,plena,Producción casi continua. Uso cotidiano en cocina criolla.
+55,24,Delta del Tigre,1,12,plena,Muy fresco. Producción familiar.
+56,25,Pampa Húmeda Interior,11,1,plena,Cosecha concentrada. Se conserva seco meses.
+57,25,GBA Sur Hortícola,11,1,plena,Producción menor. Complementa importación del norte.
+58,26,Costa Atlántica,9,12,plena,Capital nacional de la papa. Balcarce y alrededores.
+59,26,GBA Sur Hortícola,8,11,plena,Producción importante. Variedad Kennebec.
+60,27,GBA Sur Hortícola,3,7,plena,Otoño-invierno. Sabor dulce al hornearse.
+61,27,GBA Norte Hortícola,3,6,plena,Buena producción. Alta demanda en invierno.
+62,28,GBA Sur Hortícola,9,11,plena,Temporada bien definida. Septiembre-noviembre.
+63,28,Delta del Tigre,9,11,plena,Producción artesanal muy apreciada. Fruta pequeña e intensa.
+64,28,GBA Norte Hortícola,9,11,plena,Alta producción bajo cubierta y a campo.
+65,29,GBA Norte Hortícola,12,2,plena,Verano. Variedades Pavía y Rey del Monte.
+66,29,Pampa Húmeda Interior,12,2,plena,Buena producción en suelos sueltos.
+67,30,GBA Norte Hortícola,1,3,plena,Final de verano. Ciruela santa rosa la más común.
+68,30,Pampa Húmeda Interior,1,3,plena,Producción en chacras. Muy aromática.
+69,31,GBA Norte Hortícola,11,12,plena,Temporada muy corta. Diciembre es el pico.
+70,31,Pampa Húmeda Interior,11,12,plena,Similar. Cosecha artesanal.
+71,32,Pampa Húmeda Interior,3,6,plena,Otoño. Variedad Williams la más común.
+72,32,Sur Bonaerense,3,5,plena,Clima fresco da buena acidez.
+73,33,Pampa Húmeda Interior,3,6,plena,Manzanas de otoño. Variedad Granny Smith muy presente.
+74,33,Sur Bonaerense,3,5,plena,Buena calidad. Clima frío favorece textura firme.
+75,34,Pampa Húmeda Interior,3,6,plena,Otoño. Exclusivo para dulce y pasta. Alta demanda en confitería.
+76,35,GBA Norte Hortícola,5,8,plena,Invierno. Producción menor que el litoral pero presente.
+77,35,Delta del Tigre,5,8,inicio,Pequeña escala. Consumo local.
+78,36,GBA Norte Hortícola,4,8,plena,Invierno. La mandarina es la cítrica más popular.
+79,36,Delta del Tigre,5,7,inicio,Producción familiar. Muy fresca.
+80,37,GBA Norte Hortícola,1,12,plena,Todo el año. Pico en invierno junio-agosto.
+81,37,Delta del Tigre,1,12,plena,Producción continua. Limón eureka el más común.
+82,38,Costa Atlántica,12,3,plena,Verano. Necesita calor intenso. Muy productiva.
+83,38,Cuenca del Salado,12,2,plena,Producción en campo abierto. Buen volumen.
+84,39,Costa Atlántica,12,3,plena,Similar a la sandía. Variedades amarillas y verdes.
+85,39,Cuenca del Salado,12,2,plena,Producción a campo. Sabor muy dulce en verano caluroso.
+86,40,GBA Sur Hortícola,11,3,plena,Verano. No tolera frío. La más usada en cocina italiana y oriental.
+87,40,GBA Norte Hortícola,11,3,plena,Alta producción bajo cubierta.
+88,40,Delta del Tigre,11,3,plena,Producción familiar. Muy aromática recién cortada.
+89,41,GBA Sur Hortícola,1,12,plena,Todo el año. El perejil es infaltable en la cocina criolla.
+90,41,GBA Norte Hortícola,1,12,plena,Producción continua. Rizado y liso.
+91,41,Delta del Tigre,1,12,plena,Muy fresco. Producción familiar continua.
+92,42,GBA Sur Hortícola,8,11,plena,Primavera y otoño. El calor lo hace florecer y perder aroma.
+93,42,GBA Norte Hortícola,8,11,plena,Producción en macetas y a campo.
+94,43,GBA Sur Hortícola,1,12,plena,Arbusto perenne. Disponible todo el año en maceta y a campo.
+95,43,GBA Norte Hortícola,1,12,plena,Muy resistente. Poco mantenimiento.
+96,44,GBA Sur Hortícola,1,12,plena,Perenne y resistente al frío. Producción continua.
+97,44,GBA Norte Hortícola,1,12,plena,Similar. Muy usado en cocina de hierbas.
+98,45,GBA Sur Hortícola,9,3,plena,Primavera-verano. Crece muy rápido. Invasiva.
+99,45,Delta del Tigre,9,3,plena,Condiciones ideales de humedad. Muy abundante.
+100,45,GBA Norte Hortícola,9,3,plena,Producción en macetas y a campo.

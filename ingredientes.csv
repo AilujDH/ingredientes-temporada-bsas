@@ -1,0 +1,46 @@
+id_ingrediente,nombre,categoria,subcategoria,descripcion_culinaria
+1,Tomate perita,verdura,fruto,Ideal para salsas y conservas. Alta producción en GBA Sur.
+2,Tomate cherry,verdura,fruto,Dulce y carnoso. Muy usado en gastronomía de autor.
+3,Zapallo anco,verdura,fruto,Textura cremosa. Base de sopas y rellenos de pasta.
+4,Zapallo plomo,verdura,fruto,El más tradicional. Largo período de cosecha.
+5,Zucchini,verdura,fruto,Versátil. Buena producción en cinturón hortícola bonaerense.
+6,Berenjena,verdura,fruto,Requiere calor. Temporada corta y bien definida.
+7,Morrón rojo,verdura,fruto,Dulce al madurar. Excelente asado o en escabeche.
+8,Morrón verde,verdura,fruto,Más amargo que el rojo. Usado en salteados y guisos.
+9,Choclo,verdura,grano,Cosecha de verano. Base de humitas y locros.
+10,Acelga,verdura,hoja,Resistente al frío. Producción casi todo el año.
+11,Espinaca,verdura,hoja,Más delicada que la acelga. Preferida en cocina fina.
+12,Lechuga mantecosa,verdura,hoja,Hoja tierna. Producción intensiva en Delta y GBA.
+13,Lechuga morada,verdura,hoja,Variedad de color. Muy usada en gastronomía.
+14,Rúcula,verdura,hoja,Sabor picante característico. Crece bien en climas templados.
+15,Kale,verdura,hoja,Superalimento de moda. Producción creciente en Buenos Aires.
+16,Brócoli,verdura,inflorescencia,Requiere frío. Temporada otoño-invierno.
+17,Coliflor,verdura,inflorescencia,Similar al brócoli en temporada. Más delicada.
+18,Alcaucil,verdura,inflorescencia,Producción importante en Mar del Plata. Ícono regional.
+19,Zanahoria,verdura,raíz,Producción todo el año con picos en otoño.
+20,Remolacha,verdura,raíz,Resistente. Buena en invierno y primavera.
+21,Rabanito,verdura,raíz,Ciclo muy corto. Producción casi continua.
+22,Nabo,verdura,raíz,Poco común pero en crecimiento. Invierno.
+23,Puerro,verdura,bulbo,Sabor suave. Invierno y primavera temprana.
+24,Cebolla de verdeo,verdura,bulbo,Producción continua. Muy usada en cocina criolla.
+25,Ajo,verdura,bulbo,Cosecha concentrada en verano. Se conserva seco.
+26,Papa,verdura,tubérculo,Producción masiva en Mar del Plata. Variedad de tipos.
+27,Batata,verdura,tubérculo,Sabor dulce. Cosecha en otoño-invierno.
+28,Frutilla,fruta,fruto rojo,La gran producción bonaerense. Temporada bien definida.
+29,Durazno,fruta,carozo,Verano. Jugoso y aromático. Ideal para conservas.
+30,Ciruela,fruta,carozo,Final de verano. Buena para dulces y salsas agridulces.
+31,Damasco,fruta,carozo,Temporada muy corta. Muy aromático.
+32,Pera,fruta,pomácea,Otoño. Larga conservación.
+33,Manzana,fruta,pomácea,Otoño. Variedad Granny Smith muy presente en la zona sur.
+34,Membrillo,fruta,pomácea,Otoño. Casi exclusivo para dulce y pasta de membrillo.
+35,Naranja,fruta,cítrico,Invierno. Más producción en el norte de la provincia.
+36,Mandarina,fruta,cítrico,Invierno. Fácil de comer. Alta demanda.
+37,Limón,fruta,cítrico,Casi todo el año con picos en invierno.
+38,Sandía,fruta,cucurbitácea,Verano. Necesita calor. Costa y sur.
+39,Melón,fruta,cucurbitácea,Verano. Similar a la sandía en requerimientos.
+40,Albahaca,hierba,aromática,Crece en verano. No tolera el frío.
+41,Perejil,hierba,aromática,Resistente. Producción casi todo el año.
+42,Cilantro,hierba,aromática,Prefiere primavera-otoño. Sabor intenso.
+43,Romero,hierba,aromática,Arbusto perenne. Disponible todo el año.
+44,Tomillo,hierba,aromática,Perenne. Muy resistente al frío.
+45,Menta,hierba,aromática,Crece vigorosa en primavera-verano. Invasiva.
