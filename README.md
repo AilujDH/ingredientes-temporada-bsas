@@ -2,7 +2,7 @@
 
 Dashboard interactivo que mapea la disponibilidad estacional de frutas, verduras y hierbas en las principales zonas productivas de la provincia de Buenos Aires.
 
-👉 **[Ver dashboard en Tableau Public](https://public.tableau.com/app/profile/julia.fernandez8319/vizzes)**
+👉 **[Ver dashboard en Tableau Public ((https://public.tableau.com/authoring/IngredientesalolargoyanchodelaprovinciadeBuenosAires/Mapazonasyclimas/Dashboard%20Ingredientes%20de%20Temporada#1)]**
 
 ---
 
